@@ -3,6 +3,6 @@
  */
 public class App2 {
     public static void main(String[] args) {
-        System.out.println11("Found Hello at index ");
+        System.out.println1("Found Hello at index ");
     }
 }
